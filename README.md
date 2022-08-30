@@ -1,16 +1,18 @@
-# anima_graphql
+# AnimaGraphql
 
-A new Flutter project.
+This project purpose is get animes from graphql and list on the screen. User can look detail these animes and user can look anime cover image in detail.
 
-## Getting Started
+## Libraries and Technologies
 
-This project is a starting point for a Flutter application.
+<ul>
+<li>Mobx</li>
+<li>Graphql</li>
+<li>Cached Network Image</li>
+<li>Photo View</li>
+<li>Flutter Html</li>
 
-A few resources to get you started if this is your first Flutter project:
+</ul>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Screenshots
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](Screenshot_1661877330.png)![](Screenshot_1661877334.png)![](Screenshot_1661877345.png)
